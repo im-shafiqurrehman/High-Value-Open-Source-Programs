@@ -32,10 +32,10 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 | [**Google Summer of Code (GSoC)**](https://summerofcode.withgoogle.com/) | Google | 2026 reference: Org Apps Jan 19 – Feb 3 • Contributor Apps Mar 16 – Mar 31 • Coding May 25 – Nov 2 | **$1,500 – $6,600** globally; country-adjusted | 18+, open to all globally |
 | [**Outreachy**](https://www.outreachy.org/) | Software Freedom Conservancy | May 2027 round not announced • Dec 2026 round closed after initial deadline Aug 31 and final deadline Nov 2 | **$7,000** | Applicants must meet Outreachy's individual eligibility requirements; cohort assignment depends on student status and hemisphere |
 | [**LFX Mentorship**](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Terms and dates vary by organization and project; check each project's page | **$1,000 – $6,600**, adjusted by country | Open to all globally including Pakistan |
-| [**Summer of Bitcoin**](https://www.summerofbitcoin.org/) | Summer of Bitcoin | 2026 reference: Apps Feb 5 – Feb 15 • screening/challenge/proposal pipeline • Project lists due Mar 31 • Internship May–Aug | **About $6,600 in BTC**; verify current terms | University students; global, no country restrictions |
-| [**European Summer of Code (ESoC)**](https://www.esoc.dev/) | European Summer of Code | Batch 1: Feb 18 – Mar 18 (starts Apr 15) • Batch 2: Mar 19 – Apr 16 (starts May 15) | **Paid stipend** | Open worldwide; welcomes new open source contributors |
+| [**Summer of Bitcoin**](https://www.summerofbitcoin.org/) | Summer of Bitcoin | 2026 reference: Apps Feb 5 – Feb 15 • screening/challenge/proposal pipeline • organizations and ideas published by Mar 31 | **About $6,600 in BTC**; verify current terms | University students; global, no country restrictions |
+| [**European Summer of Code (ESoC)**](https://www.esoc.dev/) | European Summer of Code | 2026 reference: Batch 1 Feb 18 – Mar 18 (starts Apr 15) • Batch 2 Mar 19 – Apr 16 (starts May 15) | **Paid stipend** | Open worldwide; welcomes new open source contributors |
 | [**Code for GovTech (C4GT) — DMP**](https://app.codeforgovtech.in/) | Code for GovTech | Annual 3-month summer cycle (Jun–Aug; verify dates yearly) | **≈ $1,200 (USD)** | Students, professionals, and tech enthusiasts |
-| [**Open Source Promotion Plan (OSPP)**](https://summer-ospp.ac.cn/) | Chinese Academy of Sciences | Apps: May 9 – Jun 9 • Coding: Jul 1 – Sep 30 | **≈ $1,715 (USD)** | Students; international applicants accepted |
+| [**Open Source Promotion Plan (OSPP)**](https://summer-ospp.ac.cn/) | Chinese Academy of Sciences | 2026 reference: Apps May 9 – Jun 9 • Coding Jul 1 – Sep 30 | **≈ $1,715 (USD)** | Students; international applicants accepted |
 | [**Open Mainframe Project Mentorship**](https://openmainframeproject.org/community/mentorship-program/) | Linux Foundation | Aligns with LFX terms | Stipend via LFX | Open to all globally |
 | [**Igalia Coding Experience**](https://www.igalia.com/coding-experience/) | Igalia | Rolling / periodic openings | **Paid** | Open to all |
 | [**FOSSEE Summer Fellowship**](https://fossee.in/) | IIT Bombay | Annual summer (dates vary) | Paid stipend | Students; primarily India, verify for Pakistan |
@@ -50,8 +50,8 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 
 | Program | Organization | Timeline | What You Get | Why It's Worth It |
 |---|---|---|---|---|
-| [**Season of KDE**](https://season.kde.org/) | KDE Community | Apps: ~Jan 14 • Work: Jan 23 – Mar 20 | Certificate + swag | KDE is a major open source project used globally. Your work is public on KDE's GitLab, directly citable in future GSoC/LFX applications. |
-| [**Hacktoberfest**](https://hacktoberfest.com/) | DigitalOcean | Oct 1–31 annually (registration opens ~Sep) | Digital Holopin badges (up to 4) | 90,000+ participants globally. Recognized name on any open source CV. Easy entry point — 4 PRs in any language. |
+| [**Season of KDE**](https://mentorship.kde.org/sok/) | KDE Community | 2026 reference: Applications ~Jan 14 • Work Jan 23 – Mar 20 | See the official season's rules for certificates or merchandise | KDE is a major open source project used globally. Your work is public on KDE's GitLab, directly citable in future GSoC/LFX applications. |
+| [**Hacktoberfest**](https://hacktoberfest.com/) | MLH and DEV, with DigitalOcean as presenting partner in 2026 | Format changed in 2026; check the official site for 2027 | Format and rewards vary; check the official site | The event shifted away from counting pull requests toward learning and building with open-source AI. |
 | [**24 Pull Requests**](https://24pullrequests.com/) | Community | Dec 1–24 annually | Recognition + profile badges | Low-barrier December challenge. Good for building PRs across diverse projects before year-end. |
 
 ---
@@ -62,19 +62,19 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 
 | Date | Event |
 |---|---|
-| Jan 8 | LFX Mentorship Term 1 — Applications Open |
-| Jan 14 | Season of KDE — Application Deadline |
+| Jan 14 | Season of KDE — Application deadline (2026 reference) |
 | Jan 19 | GSoC — Org Applications Open (18:00 UTC) |
-| Jan 23 | Season of KDE — Work Period Begins |
+| Jan 23 | Season of KDE — Work period begins (2026 reference) |
+| Jan 26–Feb 10 | LFX Mentorship — CNCF Term 1 mentee applications (example) |
 
 ### February 2026 ✅
 
 | Date | Event |
 |---|---|
 | Feb 3 | GSoC — Org Applications Deadline (18:00 UTC) |
+| Feb 5–15 | Summer of Bitcoin — Applications |
 | Feb 6 | Outreachy May Cohort — Initial Applications Open |
 | Feb 13 | Outreachy May Cohort — Initial Application Deadline (~16:00 UTC) |
-| Feb 5–15 | Summer of Bitcoin — Applications |
 | Feb 19 | GSoC — Accepted Orgs Published (18:00 UTC) — Start reaching out |
 
 ### March 2026 ✅
@@ -84,6 +84,7 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 | Mar 16 | GSoC — Contributor Applications Open (18:00 UTC) |
 | Mar | Summer of Bitcoin — Screening and challenge process (2026 reference) |
 | Mar 20 | Season of KDE — Work Period Ends |
+| Mar 31 | Summer of Bitcoin — Organizations and ideas published (2026 reference) |
 | Mar 31 | GSoC — Contributor Application Deadline (18:00 UTC) |
 
 ### April–May 2026
@@ -92,15 +93,12 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 |---|---|
 | Apr 15 | ESoC Batch 1 — Program Starts |
 | Apr 16 | ESoC Batch 2 — Application Deadline |
-| Mar 31 | Summer of Bitcoin — Project lists due |
 | Apr 21 | GSoC — Contributor Proposal Rankings Due (18:00 UTC) |
 | Apr 30 | GSoC — Accepted Projects Announced (18:00 UTC) |
 | May 1–24 | GSoC — Community Bonding Period |
 | May 9 | OSPP — Student Applications Open |
-| May 14 | LFX Term 2 (Jun–Aug) — Applications Open |
+| May | LFX Mentorship — Dates vary by project |
 | May 15 | ESoC Batch 2 — Program Starts |
-| May 16 | LFX Term 2 — Application Deadline |
-| May 18 | Summer of Bitcoin — Internship Begins |
 | May 25 | GSoC — Coding Officially Begins |
 
 ### June–August 2026
@@ -111,9 +109,7 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 | Jun–Aug | Outreachy May Cohort — Internship Active (May 18 – Aug 17) |
 | Jun–Aug | C4GT DMP — Summer Cycle Active |
 | Jul 1 | OSPP — Coding Begins |
-| Jul 30 | LFX Term 3 (Sep–Nov) — Applications Open |
-| Aug 17 | Summer of Bitcoin — Internship Ends |
-| Aug 18 | LFX Term 3 — Application Deadline |
+| Aug 3–18 | LFX Mentorship — Kubeflow Term 3 applications (example) |
 | ~Aug 17 | Outreachy May Cohort — Internship Ends |
 | Aug 31 | Outreachy Dec Cohort — Initial application deadline |
 
@@ -121,12 +117,12 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 
 | Date | Event |
 |---|---|
-| Sep 15 | Hacktoberfest — Registration Opens |
+| Sep 15 | Hacktoberfest — Registration opens (2026 reference) |
 | Sep 30 | OSPP — Coding Period Ends |
-| Oct 1–31 | **Hacktoberfest 2026** |
+| Oct 1–31 | **Hacktoberfest 2026** (format changed; check the official site for 2027) |
 | Nov 2 | GSoC — Extended Timeline Final Deadline (18:00 UTC) |
-| Dec 1–24 | **24 Pull Requests** |
 | Nov 2 | Outreachy Dec Cohort — Final application deadline |
+| Dec 1–24 | **24 Pull Requests** |
 | ~Dec | Season of KDE — Applications typically open (next cycle) |
 
 ---
@@ -153,7 +149,7 @@ The following dates are **expected, based on the 2026 pattern; verify on the off
 | Program | Value |
 |---|---|
 | Season of KDE | Strong portfolio proof; well-known org; mentored work |
-| Hacktoberfest | Global recognition; easy entry; 90,000+ participants |
+| Hacktoberfest | Format changed in 2026; check the official site for 2027 |
 | 24 Pull Requests | Low-barrier December challenge |
 
 ---
